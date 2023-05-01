@@ -19,7 +19,7 @@ This script fetches historical NAV data for mutual funds from the Mftool API and
 ```
 python AMFI_MF_NAV_Complete.ipynb
 ```
-            or
+or
 ```
 python AMFI_MF_NAV_Complete.py
 ```

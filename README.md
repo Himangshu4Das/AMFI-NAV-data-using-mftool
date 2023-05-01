@@ -19,6 +19,10 @@ This script fetches historical NAV data for mutual funds from the Mftool API and
 ```
 python AMFI_MF_NAV_Complete.ipynb
 ```
+            or
+```
+python AMFI_MF_NAV_Complete.py
+```
 5. The script will generate a CSV file named 'MF_NAV_DATA.csv' in the same directory as the script.
 
 ## Output
